@@ -1,0 +1,17 @@
+node_modules/
+bundle.js
+npm-debug.log
+
+/.idea
+/public
+
+.env
+.passport.js
+.DS_Store
+
+build/
+dist/
+frontend/.parcel-cache
+frontend/.cache/
+
+package-lock.json
